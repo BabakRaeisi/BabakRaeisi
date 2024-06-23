@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BabakRaeisi 
-- 👀 I’m interested in making interactive applications and games with Unity  .
-- 🌱 I’m currently learning about game architeture ,concepts and patterns in game development to make better built applications.
+-Hello my name is Babak I am a programmer and 3D artist.
+https://www.artsation.com/b4k
+linkedin :https://www.linkedin.com/in/babak-raeisi-a75782144/
 
 - 📫 you could send me an Email at : babak.raeisi.brs@gmail.com for collaboration . 
 
