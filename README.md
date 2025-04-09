@@ -3,7 +3,7 @@ Hey, I’m Babak—a skilled software engineer and game developer with a strong 
 I thrive in programming, SDLC, and teamwork, bringing solid problem-solving skills to the table. Whether it’s writing clean code, optimizing workflows, or collaborating on projects, I’m all about delivering high-quality results.
 
 -Artstation portfolio :https://www.artsation.com/b4k
--linkedin :https://www.linkedin.com/in/babak-raeisi-a75782144/
+-linkedin :https://linkedin.com/in/babakraeisi
 -YouTube https://www.youtube.com/@BRSDevlog some of my projects are showcased here 
 
 
