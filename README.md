@@ -1,14 +1,19 @@
-Hey, I’m Babak—a skilled software engineer and game developer with a strong passion for Cloud Computing, DevOps, and IoT, which I’m actively diving into. Beyond coding, I’m also a certified 3D artist for video games, with a sharp eye for detail and a love for modeling.
+👋 Hey, I’m Babak — a software engineer with a versatile background in game development and 3D art, now fully focused on backend development, Cloud Computing, and DevOps.
 
-I thrive in programming, SDLC, and teamwork, bringing solid problem-solving skills to the table. Whether it’s writing clean code, optimizing workflows, or collaborating on projects, I’m all about delivering high-quality results.
+Currently, I’m working on building real-world projects using .NET, SQL, and microservices, with an emphasis on cloud infrastructure (AWS), CI/CD pipelines, and containerization (Docker, Terraform). I'm also exploring IoT and cybersecurity as part of my long-term learning path.
 
--Artstation portfolio :https://www.artsation.com/b4k
--linkedin :https://linkedin.com/in/babakraeisi
--YouTube https://www.youtube.com/@BRSDevlog some of my projects are showcased here 
+In a previous chapter, I specialized in game development with Unity and earned certification as a 3D artist, showcasing strong visual and technical skills. Now, I combine that creative mindset with robust software engineering practices.
 
+🔧 I enjoy solving real problems, building clean and scalable systems, and collaborating with teams to deliver high-impact results.
 
-- 📫 you could send me an Email at : babak.raeisi.brs@gmail.com for collaboration . 
+🔗 Find me here:
+🎨 ArtStation: https://www.artstation.com/b4k
 
+💼 LinkedIn: https://linkedin.com/in/babakraeisi
+
+📹 YouTube Devlog: https://www.youtube.com/@BRSDevlog
+
+📫 Reach out for collaborations: babak.raeisi.brs@gmail.com
 <!---
 BabakRaeisi/BabakRaeisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
