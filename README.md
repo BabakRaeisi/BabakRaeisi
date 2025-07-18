@@ -9,7 +9,6 @@ Currently, I’m working on building real-world projects using .NET, SQL, and mi
 💼 LinkedIn: https://linkedin.com/in/babakraeisi
 
 📹 YouTube Devlog: https://www.youtube.com/@BRSDevlog
-🎨 ArtStation: https://www.artstation.com/b4k
 📫 Reach out for collaborations: babak.raeisi.brs@gmail.com
 <!---
 BabakRaeisi/BabakRaeisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
