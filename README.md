@@ -1,5 +1,5 @@
-👋 Hey, I’m Babak — a software engineer with a versatile background in game development, now fully focused on backend development, Cloud Computing, and DevOps.
-Currently, I’m working on building real-world projects using .NET, SQL, and microservices, with an emphasis on cloud infrastructure (AWS), CI/CD pipelines, and containerization (Docker, Terraform).
+👋 Hey, I’m Babak — a software engineer with a versatile background in game development, now fully focused on backend development and Cloud Computing 
+Currently, I’m working on building real-world projects using .NET, SQL, and microservices, with an emphasis on cloud infrastructure (AWS, azure), CI/CD pipelines, and containerization (Docker, Terraform).
 
 🔧 I enjoy solving real problems, building clean and scalable systems, and collaborating with teams to deliver high-impact results.
 
